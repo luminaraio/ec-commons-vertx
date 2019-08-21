@@ -15,7 +15,7 @@ jx create quickstart --dry-run --pack maven11 -g luminaraio
 +
 and follow the instruction of the project import wizard and select the project `luminaraio/library-quickstart`
 
-. Validate that all instances of `REPLACE_ME_APP_NAME` are replaced by the name given to the project during step 1
+. Validate that all instances of `ec-commons` are replaced by the name given to the project during step 1
 . The project can *build successfully*
 +
 Execute:

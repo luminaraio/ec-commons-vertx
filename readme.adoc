@@ -1,1 +1,1 @@
-# Luminara - EC - REPLACE_ME_APP_NAME
+# Luminara - EC - ec-commons

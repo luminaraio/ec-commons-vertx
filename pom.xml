@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.luminara</groupId>
-    <artifactId>REPLACE_ME_APP_NAME</artifactId>
+    <artifactId>ec-commons</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <parent>
@@ -15,7 +15,7 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <name>Luminara - EC - REPLACE_ME_APP_NAME library</name>
+    <name>Luminara - EC - ec-commons library</name>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
