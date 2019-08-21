@@ -1,10 +1,10 @@
 pipeline {
   agent {
-    label "jenkins-maven"
+    label "jenkins-maven-java11"
   }
   environment {
     ORG = 'luminaraio'
-    APP_NAME = 'ec-commons'
+    APP_NAME = 'ec-commons-vertx'
   }
   stages {
     stage('CI Build and push snapshot') {
